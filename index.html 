@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <script src="script.js"></script>  
+  
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <a href="index.html">Home</a> 
+    <a href="watch live sport.html">Watch live sport</a>
+    <a href="menu.html">Menu</a>
+    <a href="reservations.html">reservations</a>
+    <a href="contact us.html">Contact</a>
+    <a href="newsletter.html">Newsletter</a>
+  </div>
+  
+  
+
+
+  
+  <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
+
+                                <h1>Islington sports bar</h1>
+<p> Welcome to islington sports bar and grill where exciting sport encounters freshly cooked food and drink.
+with broadcasting coverage from SKY and BT Sport, all premier sports consisting of national and international football tournaments, also rugby union and rugby league, golf, boxing, tennis championships, Formula 1, NFL and college football.
+The food has been cooked to a meticulous high benchmark with  the staff mmemebrs workingwwith a consitent substantial work ethic.  
+With a variety of wines, cask asles, and other alocholic beverages to enrich the customer experience.  
+
+We also supply  visable wifi -spots and a certain amoiunt of power points to connect computers if you decide to undertake any work projects or just browsing 
+the internet in general. 
+
+Enjpy the food and drink beverages whilst socialisng with freinds with welcomeing staff members to supply you with 
+an profressional and polite customer service.   
+
+       
+    <div id="like_button_container"></div>
+
+
+    <p id="demo"></p>
+    
+
+  <h3 id="About"><h3>   
+      
+
+ <h3 id="Services"><h3>
+
+  <h3 id="Clients"><h3>
+
+  <h3 id="Menu"></h3>  
+
+  <h3 id="Membership discount"><h3>
+  
+  <h3 id="reservations"></h3>  
+
+<h3 id="opening times"><h3>
+
+ <h3 id="Contact Us"|><h3>
+
+
+
+
+ <img class="sky" src="assets/images/sky.jpg" alt="cup" height="500px" width="500px"> Love Maths
+
+</body>
+       
+     
+
+
+</body>
+
+
+
+
+</html>
